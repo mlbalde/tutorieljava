@@ -1,0 +1,1 @@
+Ce projet conciste à traduire la série officiel du "The Java Tutorials" disponible en Anglais à http://java.sun.com/docs/books/tutorial/ .
